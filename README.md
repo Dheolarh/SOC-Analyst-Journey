@@ -9,7 +9,7 @@ The projects documented here reflect real-world scenarios and industry-standard 
 
 ## Projects
 
-### 1. [Network Analysis](Network%20Anaysis/)
+### 1. [Network Analysis](Network%20Analysis/)
 **Tools**: Wireshark  
 **Frameworks**: CyBOK Incident Response Model, SANS Incident Handler's Handbook
 
